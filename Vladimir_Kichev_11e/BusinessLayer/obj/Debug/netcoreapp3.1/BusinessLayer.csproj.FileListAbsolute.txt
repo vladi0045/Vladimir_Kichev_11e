@@ -1,0 +1,10 @@
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Vladi2004\Desktop\Git for test\Vladimir_Kichev_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
